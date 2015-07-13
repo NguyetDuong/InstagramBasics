@@ -27,7 +27,7 @@ var passiveAgg = ["If you got eyes, look at me now", "I'm the girl you've always
 					"If you can't handle me at my worst, you don't deserve me at my best.", "Why don't you love me??", "People get mad when you treat them how they treat you.",
 					"Some people are like clouds... When they're gone, it's a beautiful day.", 
 					"I don't care.", "I don't do well with hints. You're an adult. Speak your fucking mind.", "If you still talk about it. You still give a shit about it.",
-					"I love all of you. Except you. You know who you are, douchebag."];
+					"I love all of you. Except you. You know who you are, douchebag.", "Smile and make a bitch mad"];
 
 var deepLove = ["You were dumb leaving me, but I was dumb chasing after you.", "Fool me once, shame on you. Fool me twice, shame on me.", 
 				"You were dumb leaving me, but I was dumb chasing after you."];
@@ -43,3 +43,30 @@ var topNotchBasic = ["Find my knots, and undo them, all of them.", "Vertical lin
 					"I'm not the least bit sorry my awesomeness intimidates you.", "Always wear your invisible crown.", "Don't mess with the supreme.",
 					"My lips are the gun. My smile is the trigger. My kisses are the bullets. Label me a killer.", "I like my money where I can see for -- hanging in my closet.",
 					"Kill them with success, and burry them with a smile."];
+					
+var nickiMinaj = ["Shout out to my haters sorry that you couldn't phase me.", 
+				  "You could be the king but watch the queen conquer", 
+				  "Some people have to put in work. Others get to cut corners. We see it but don't say it. Welcome to the 
+				  real world -Nicki Minaj", "All I do is win ain't that the reason that you really mad? Undisputed
+				  hailing all the way from Trinidad -Nicki Minaj, All I Do Is Win",
+				  "Call it a curse or just call me blessed, if you can't handle my worst you ain't getting meat my 
+				  best. -Nicki Minaj, Marilyn Monroe", "Take me or leave me, I'll never be perfect. Believe me I'm 
+				  worth it. -Nicki Minaj, Marilyn Monroe", "See I need you in my life for me to stay, No no no no no I know you'llstay
+				  Oh no no no no mo don't go away -Nicki Minaj, Super Bass", "I believe that life is a prize. 
+				  But to live doesn't mean you're alive. -Nicki Minaj, Moment for Life", "No I'm not lucky,
+				  I'm blessed. YES", "& I will retire with the crown. YES", "Is it two? Three? Leave a good tip, Imma blow all my money and don't give
+				  two shits.", "& if I'm fake I ain't notice cause my money ain't", "Just killed another
+				  career, it's a mild day", "I think big get cash, make em blink fast", "The money came yeah, 
+				  tripled & quadrupled it/But I still miss us when we was just on some stupid shit", "So we become
+				  alive in a time of fear, and I ain't got no muthafuckin time to spare", "I hear the criticism loud andclear
+				  That is how I know that the time is near", "I am not a word, I am not a line. I am not a girl that canever
+				  be defined.", "I am not a flaw, I am levitation, I represent an entire generation", "Cry my eyes out
+				  for days upon days, Such a heavy burden placed upon me", "They start comin and I start risin, Must be surprisin, I'm
+				  	just a-mah-zin", "I win, thrive, soar higher, higher, More fire", "Everybody wanna try to box me in, Suffocating every time in locks
+				  	me in", "Don't beg for anything you can get for free -Nicki Minaj"]; 
+
+
+
+
+
+
