@@ -1,5 +1,5 @@
 var CURRENT_YEAR = 2015;
-var mimi_circa_09 = [CURRENT_YEAR + " .one of the best years of my life.", "Should I use BlogSpot or WordPress?", 
+var mimiCirca2009 = [CURRENT_YEAR + " .one of the best years of my life.", "Should I use BlogSpot or WordPress?", 
 						"Male honeybees only get to have sex once in their life...because it kills them. During ejaculation the penis breaks off inside the female, and the male dies within hours.",
 						"I LOVE YOU MILEY CYRUSS. :D", "My hair looks better when I straighten it D= right now it looks like a dried cat fur",
 						"I fucking hate it when random people add me -____-' asses and now posting shit all over. son of a bitch",
@@ -21,7 +21,25 @@ var mimi_circa_09 = [CURRENT_YEAR + " .one of the best years of my life.", "Shou
 						"Boys come to me for sex :3", "OH MY FUCKING GOD. SOMEONE GET ME CPR. IM FAINTING. OMFG OMFG OMFG. I CANT FUCKING BELIEVE IT!",
 						"Cus i fucking felt like it ;x"];
 						
-var passiveAgg = ["If you got eyes, look at me now", "I'm the girl you've always wanted", "Throwing mad shade", "I gave her my heart but she wanted my soul.", "I broke my own heart just by loving you", 
-"You'll never understand me.", "I'll just stay here forever.", "At least my pizza is attracted to me."];
+var passiveAgg = ["If you got eyes, look at me now", "I'm the girl you've always wanted", "Throwing mad shade", 
+					"I gave her my heart but she wanted my soul.", "I broke my own heart just by loving you", 
+					"You'll never understand me.", "I'll just stay here forever.", "At least my pizza is attracted to me.",
+					"If you can't handle me at my worst, you don't deserve me at my best.", "Why don't you love me??", "People get mad when you treat them how they treat you.",
+					"Some people are like clouds... When they're gone, it's a beautiful day.", 
+					"I don't care.", "I don't do well with hints. You're an adult. Speak your fucking mind.", "If you still talk about it. You still give a shit about it.",
+					"I love all of you. Except you. You know who you are, douchebag."];
 
+var deepLove = ["You were dumb leaving me, but I was dumb chasing after you.", "Fool me once, shame on you. Fool me twice, shame on me.", 
+				"You were dumb leaving me, but I was dumb chasing after you."];
 
+var sadness = ["You were dumb leaving me, but I was dumb chasing after you.", "You don't give a fuck about me right now, and we could make it real, but we don't know how.",
+				"I acted like it wasn't a big deal when really it was breaking my heart."];
+
+var inspirational = ["You can be anything you want in your dreams, even a cow jumping over the moon.", "Do something every day to inch closer to a better tomorrow.",
+					"Everything is going to be OK in the end. If it's not, it's not the end."];
+
+var topNotchBasic = ["Find my knots, and undo them, all of them.", "Vertical lines make me look thinner.", "I have no self-control and too many regrets.",
+					"Oh look what time it is, time for you to go fuck yourself.", "The bags under my eyes are Prada.", "I woke up like this.", "You can break my heart but you can't break my swag.",
+					"I'm not the least bit sorry my awesomeness intimidates you.", "Always wear your invisible crown.", "Don't mess with the supreme.",
+					"My lips are the gun. My smile is the trigger. My kisses are the bullets. Label me a killer.", "I like my money where I can see for -- hanging in my closet.",
+					"Kill them with success, and burry them with a smile."];
