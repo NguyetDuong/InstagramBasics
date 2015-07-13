@@ -24,14 +24,6 @@ body {
     
 }
 
-button {
-	font-color: Red;
-	font-size: 15px;
-}
-
-.gen {
-	padding-bottom: 15px;
-}
 
 #mainbox {
 	background: #fff;
@@ -50,3 +42,6 @@ button {
 #caption {
 	padding: 10px;
 }
+
+
+
