@@ -1,14 +1,23 @@
 <html>
-	<title>  </title>
 	<head>
         <title>The Basics of Instagram</title>
-        <link href="style.css" rel="stylesheet" type="text/css" />
+        <link href="style.css" rel="stylesheet" type="text/css">
 
         <!-- Mobile Stylesheet -->
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
+        <!-- our js code -->
+        <script type="text/javascript" src="script.js"> </script>
+
         <!-- Google Fonts -->
         <link href='http://fonts.googleapis.com/css?family=Syncopate' rel='stylesheet' type='text/css'>
+
+        <!--<script>
+        workerino = function(){
+	// document.getElementbyId("gen").innerHTML = "Hello World!";
+		alert("test");
+	// console.log("button clicked");
+}</script>-->
 
 	</head>
 	<body>
@@ -21,11 +30,12 @@
 				Yes, Mimi, it works. 
 				<br>
 			</div>
-			<div class="gen">
-				<button class="gen">Generate</button>
+
+			<div id="gen">
+				<!-- <button id="tester" onclick="workerino();">Generate</button> -->
 			</div>
 		</br>
 		</div>
-
+		<button id="tester">Generate</button>
 	</body>
 </html>
