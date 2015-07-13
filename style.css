@@ -26,4 +26,15 @@ body {
 
 #mainbox {
 	background: #fff;
+	font-family: 'Papyrus', fantasy;
+	font-size: 16px;
+
+}
+button {
+	background: #F0F8FF;
+	font-family: 'Impact';
+	font-color: Red;
+	font-size: 15px;
+
+
 }
