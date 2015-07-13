@@ -24,17 +24,29 @@ body {
     
 }
 
-#mainbox {
-	background: #fff;
-	font-family: 'Papyrus', fantasy;
-	font-size: 16px;
-
-}
 button {
-	background: #F0F8FF;
-	font-family: 'Impact';
 	font-color: Red;
 	font-size: 15px;
+}
 
+.gen {
+	padding-bottom: 15px;
+}
 
+#mainbox {
+	background: #fff;
+	font-size: 16px;
+	font-family: Arial Narrow;
+
+}
+
+#nameHeader {
+	font-family: 'Syncopate', sans-serif;
+	font-size: 25pt;
+	padding-top: 20px;
+	text-align: center;
+}
+
+#caption {
+	padding: 10px;
 }
