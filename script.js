@@ -20,4 +20,8 @@ var mimi_circa_09 = [CURRENT_YEAR + " .one of the best years of my life.", "Shou
 						"PEOPLE. Does HARD and DARK rhymes? D:< IT DOES. RIGHT?!", "Things happens when I gasp because the dude did add me O: < GASP GASP GASP. UN-BE-LIEV-A-FUCKING-BLE",
 						"Boys come to me for sex :3", "OH MY FUCKING GOD. SOMEONE GET ME CPR. IM FAINTING. OMFG OMFG OMFG. I CANT FUCKING BELIEVE IT!",
 						"Cus i fucking felt like it ;x"];
+						
+var passiveAgg = ["If you got eyes, look at me now", "I'm the girl you've always wanted", "Throwing mad shade", "I gave her my heart but she wanted my soul.", "I broke my own heart just by loving you", 
+"You'll never understand me.", "I'll just stay here forever.", "At least my pizza is attracted to me."];
+
 
