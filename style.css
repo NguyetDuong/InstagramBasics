@@ -24,14 +24,16 @@ body {
     
 }
 
-
+/** Main Body **/
 #mainbox {
 	background: #fff;
 	font-size: 16px;
 	font-family: Arial Narrow;
-
+	border-radius: 5px;
+	width: 75%;
+	margin: auto;
 }
-
+/** Name of the App **/
 #nameHeader {
 	font-family: 'Syncopate', sans-serif;
 	font-size: 25pt;
@@ -39,9 +41,52 @@ body {
 	text-align: center;
 }
 
+/** Message on the inside **/
 #caption {
 	padding: 10px;
 }
 
+/** Button CSS **/
+.refreshContainer {
+	text-align: center;
+}
+
+.button {
+	display: inline-block;
+	color: #666;
+	background-color: #eee;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-size: 12px;
+	padding: 10px 30px;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border: 1px solid rgba(0,0,0,0.3);
+	border-bottom-width: 3px;
+}
+
+a.button {
+	text-decoration: none;
+}
+
+a.button:active {
+	background-color: #ccc;
+	opacity: .7;
+	border-color: rgba(0,0,0,0.9);
+	-webkit-transition: all 0.2s ease-in-out;  /* Chrome 1-25, Safari 3.2+ */
+	-moz-transition: all 0.2s ease-in-out;  /* Firefox 4-15 */
+	-o-transition: all 0.2s ease-in-out;  /* Opera 10.50–12.00 */
+	transition: all 0.2s ease-in-out;  /* Chrome 26, Firefox 16+, IE 10+, Opera 12.10+ */
+}
+
+a.button:hover {
+	background-color: #ccc;
+	opacity: .9;
+	-webkit-transition: all 0.2s ease-in-out;  /* Chrome 1-25, Safari 3.2+ */
+	-moz-transition: all 0.2s ease-in-out;  /* Firefox 4-15 */
+	-o-transition: all 0.2s ease-in-out;  /* Opera 10.50–12.00 */
+	transition: all 0.2s ease-in-out;  /* Chrome 26, Firefox 16+, IE 10+, Opera 12.10+ */
+}
 
 

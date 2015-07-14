@@ -1,7 +1,7 @@
 var CURRENT_YEAR = 2015;
 
 $(document).ready(function() {
-	$('#tester').click(function() {
+	$('.button').click(function() {
 		alert("hello");
 		// workerino();
 	});
